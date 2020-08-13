@@ -1,0 +1,1 @@
+FROM ainizeml/bit-s-r50x3-ilsvrc
