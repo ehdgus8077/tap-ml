@@ -1,0 +1,1 @@
+FROM ainizeml/biobert-pubmed-squad-v2
