@@ -1,0 +1,1 @@
+FROM ainizeml/bert-en-uncased-l12-2
