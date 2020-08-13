@@ -1,0 +1,1 @@
+FROM ainizeml/bert-en-wwm-cased-l24-2
