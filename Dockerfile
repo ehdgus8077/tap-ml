@@ -1,0 +1,1 @@
+FROM ainizeml/spanbert-finetuned-squad-v2
