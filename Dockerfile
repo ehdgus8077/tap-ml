@@ -1,0 +1,1 @@
+FROM ainizeml/distilbert-uncased-squad
