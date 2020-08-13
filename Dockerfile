@@ -1,0 +1,1 @@
+FROM ainizeml/bert-en-wwm-uncased-l24-2
