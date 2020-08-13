@@ -1,0 +1,1 @@
+FROM ainizeml/bert-multi-case-2
