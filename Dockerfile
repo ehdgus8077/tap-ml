@@ -1,0 +1,1 @@
+FROM ainizeml/bert-uncased-tf2-qa
