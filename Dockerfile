@@ -1,0 +1,1 @@
+FROM ainizeml/gnews-swivel-20dim-oov
