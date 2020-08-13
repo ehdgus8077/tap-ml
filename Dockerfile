@@ -1,0 +1,1 @@
+FROM ainizeml/bit-m-r101x3-ilsvrc
