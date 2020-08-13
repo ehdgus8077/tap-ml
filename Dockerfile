@@ -1,0 +1,1 @@
+FROM ainizeml/bit-m-r50x1
