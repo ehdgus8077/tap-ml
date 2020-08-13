@@ -1,0 +1,1 @@
+FROM ainizeml/s-r152x4-ilsvrc
