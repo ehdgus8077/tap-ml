@@ -1,0 +1,1 @@
+FROM ainizeml/bert-en-cased-l12-2
