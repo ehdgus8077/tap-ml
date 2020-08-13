@@ -1,0 +1,1 @@
+FROM ainizeml/disease-classification
