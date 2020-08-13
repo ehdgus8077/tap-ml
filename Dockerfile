@@ -1,0 +1,1 @@
+FROM ainizeml/bert-large-cased-squad
