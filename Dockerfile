@@ -1,0 +1,1 @@
+FROM ainizeml/scibert-uncased-squad-v2
