@@ -1,0 +1,1 @@
+FROM ainizeml/bert-cased-squad-v2
