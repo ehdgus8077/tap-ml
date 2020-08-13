@@ -1,0 +1,1 @@
+FROM ainizeml/efficientnet-b0-fv
