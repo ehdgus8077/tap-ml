@@ -1,0 +1,1 @@
+FROM ainizeml/resnet-50-fv
