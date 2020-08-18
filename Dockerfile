@@ -1,0 +1,1 @@
+FROM ainizeml/bert-multilang-cased-dutch-squad-v2
