@@ -1,0 +1,1 @@
+FROM ainizeml/bert-uncased-squad-v2
