@@ -1,0 +1,1 @@
+FROM ainizeml/mobilebert-squad-v2
