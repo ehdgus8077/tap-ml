@@ -1,1 +1,1 @@
-FROM ainizeml/bit-m-r152x4
+FROM ainizeml/bit-m-r152x4-gpu
